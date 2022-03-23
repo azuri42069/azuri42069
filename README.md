@@ -1,4 +1,4 @@
-![banner](https://github.com/heut42069/heut42069/blob/main/banner.png)
+![banner](https://imgur.com/a/n20yyso)
 
 ## **👋🏻Hi**
 
