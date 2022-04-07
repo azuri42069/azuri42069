@@ -1,6 +1,6 @@
 ![](https://media.discordapp.net/attachments/885202918884638772/961674644082020362/bn.png?width=1440&height=390)
 <p align="center">
-  My
+  I'm in:
 </p>
 <p align="center">
 <a href="https://steamcommunity.com/id/heut42069/"><img align="center" src="https://img.shields.io/badge/Steam-2a475e?style=for-the-badge&logo=steam"/></a>
