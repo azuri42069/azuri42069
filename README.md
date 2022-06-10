@@ -1,6 +1,5 @@
 ![](https://media.discordapp.net/attachments/885202918884638772/961674644082020362/bn.png?width=1440&height=390)
-<p align="center">
- ## **ℹ️ info about me**
+
 
 - 🔵 Work in **Renewed Networks**
 - 🔵 Mapper on Source, Source 2, Goldscr
