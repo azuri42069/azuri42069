@@ -3,7 +3,7 @@ I'm web/game designer.
 
 ## 💻 Teams
 * 2020-2021 Alium Dev Team
-* 2021-now Renewed Networks Dev Team
+* 2021-now [Renewed Networks Dev Team](https://github.com/renewed-networks)
 
 ## 📚 Projects
 * Front-end (HTML, CSS, JS, PHP)
