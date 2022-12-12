@@ -28,6 +28,7 @@ I'm web/game designer.
 * Modifications (GoldSrc)
   + [The Stanley Parable: Classic](https://www.moddb.com/mods/the-stanley-parable-classic)
 * Work In Progress
-  + [Runaway-17](https://www.moddb.com/mods/runaway-seventeen "Runaway-17") 
   + gm_isola
   + Urban Heart
+* Outdated
+  + [Runaway-17](https://www.moddb.com/mods/runaway-seventeen "Runaway-17") 
