@@ -1,5 +1,7 @@
 ## 👋 Greetings!!!
-I'm web/game designer.
+I'm Maksim, aka Azuri.
+I am a web/game/level designer. I make different web & game stuff. 
+I currently work in Renewed Networks on Urban Heart and other things.
 
 ## 💻 Teams
 * 2020-2021 Alium Dev Team
