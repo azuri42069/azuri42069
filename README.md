@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/87721232/206958579-184842a1-2636-440f-9889-6d1d616eb5ae.png)
 ## 👋 Greetings!!!
 I'm Maksim, aka Azuri.
 I am a web/game/level designer. I make different web & game stuff. 
