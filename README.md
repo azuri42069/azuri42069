@@ -1,8 +1,6 @@
 ![image](https://user-images.githubusercontent.com/87721232/206958579-184842a1-2636-440f-9889-6d1d616eb5ae.png)
 ## 👋 Greetings!!!
-I'm Maksim, aka Azuri.
-I am a web/game/level designer. I make different web & game stuff. 
-I currently work in Renewed Networks on Urban Heart and other things.
+I am a content developer on Source Engine. Basically level design. I am also a front-end developer. Currently manager and developer in rndevs.online
 
 ## 💻 Teams
 * 2020-2021 Alium Dev Team
