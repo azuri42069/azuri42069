@@ -29,8 +29,7 @@ I am a content developer on Source Engine. Basically level design. I am also a f
   + [Vulpine Rebels](https://steamcommunity.com/sharedfiles/filedetails/?id=2744621694 "Vulpine Rebels") 
 * Modifications (GoldSrc)
   + [The Stanley Parable: Classic](https://www.moddb.com/mods/the-stanley-parable-classic)
-* Work In Progress
-  + gm_isola
-  + Urban Heart
 * Outdated
   + [Runaway-17](https://www.moddb.com/mods/runaway-seventeen "Runaway-17") 
+  + gm_isola
+  + Urban Heart
