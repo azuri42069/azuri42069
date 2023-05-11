@@ -4,7 +4,7 @@ I am a content developer on Source Engine. Basically level design. I am also a f
 
 ## 💻 Teams
 * 2020-2021 Alium Dev Team
-* 2021-now [RN Collective](https://github.com/renewed-networks)
+* 2021-now [RN Collective](https://github.com/rndevs-online)
 
 ## 📚 Projects
 * Coding (Python)
