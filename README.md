@@ -1,12 +1,14 @@
-![image](https://user-images.githubusercontent.com/87721232/206958579-184842a1-2636-440f-9889-6d1d616eb5ae.png)
+![image](https://github.com/przyleskii/przyleskii/assets/87721232/dd4fde85-0f71-4c81-85bd-318191f7f73e)
 ## 👋 Greetings!!!
 I am a content developer on Source Engine. Basically level design. I am also a front-end developer. Currently manager and developer in rndevs.online
 
 ## 💻 Teams
 * 2020-2021 Alium Dev Team
-* 2021-now [Renewed Networks Dev Team](https://github.com/renewed-networks)
+* 2021-now [RN Collective](https://github.com/renewed-networks)
 
 ## 📚 Projects
+* Coding (Python)
+  + [IngSoc](https://przyleskii/FaceAnalyzerTgBot "FaceAnalyzerTgBot")  
 * Front-end (HTML, CSS, JS, PHP)
   + [rndevs.online](https://rndevs.online/ "rndevs.online")  
   + [azuretium.space](https://azuretium.space/ "azuretium.space") 
