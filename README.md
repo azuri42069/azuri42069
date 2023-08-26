@@ -1,4 +1,3 @@
-![image](https://github.com/przyleskii/przyleskii/assets/87721232/dd4fde85-0f71-4c81-85bd-318191f7f73e)
 ## 👋 Greetings!!!
 I am a content developer on Source Engine. Basically level design. I am also a front-end developer. Currently manager and developer in rndevs.online
 
