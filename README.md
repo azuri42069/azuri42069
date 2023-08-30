@@ -10,7 +10,7 @@ I am a content developer on Source Engine. Basically level design. I am also a f
   + [IngSoc](https://github.com/przyleskii/FaceAnalyzerTgBot "FaceAnalyzerTgBot")  
 * Front-end (HTML, CSS, JS, PHP)
   + [rndevs.online](https://rndevs.online/ "rndevs.online")  
-  + [azuretium.space](https://azuretium.space/ "azuretium.space") 
+  + [mpstudio.space](https://mpstudio.space/ "mpstudio.space") 
 * Front-end, contributing (HTML, CSS, JS, PHP) 
   + Four (Crowdfunding platform)
   + Tables (Event manager)
