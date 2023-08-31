@@ -7,7 +7,7 @@ I am a content developer from Siberia, Omsk. Basically level design on Source En
 
 ## 📚 Projects
 * Coding (Python)
-  + [IngSoc](https://github.com/przyleskii/FaceAnalyzerTgBot "FaceAnalyzerTgBot")  
+  + [IngSoc](https://github.com/makspribora/FaceAnalyzerTgBot "FaceAnalyzerTgBot")  
 * Front-end (HTML, CSS, JS, PHP)
   + [rndevs.online](https://rndevs.online/ "rndevs.online")  
   + [mpstudio.space](https://mpstudio.space/ "mpstudio.space") 
