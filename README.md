@@ -1,5 +1,5 @@
 ## 👋 Greetings!!!
-I am a content developer on Source Engine. Basically level design. I am also a front-end developer. Currently manager and developer in rndevs.online
+I am a content developer from Siberia, Omsk. Basically level design on Source Engine. 
 
 ## 💻 Teams
 * 2020-2021 Alium Dev Team
