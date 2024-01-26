@@ -1,5 +1,5 @@
 ## 👋 Greetings!!!
-I am a content developer from Siberia, Omsk. Basically level design on Source Engine. 
+I am a content developer from Omsk, Siberia. Basically level design on Source Engine. 
 
 ## 💻 Teams
 * 2020-2021 Alium Dev Team
